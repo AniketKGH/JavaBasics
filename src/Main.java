@@ -14,5 +14,8 @@ public class Main {
             //test
             System.out.println("i = " + i + 1);
         }
+
+        new calculator().display();
+
     }
 }
